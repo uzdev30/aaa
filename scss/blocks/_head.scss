@@ -1,0 +1,15 @@
+.head {
+  background-color: red;
+  &__list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+  }
+
+  &__item {
+    background-color: rgb(204, 59, 59);
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+  }
+}

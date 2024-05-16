@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #014e56;
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 1440px;
+}
+
+.header__link {
+  margin-left: 50px;
+  text-decoration: none;
+  color: #fff;
+  font-family: Livvic;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; /* 155.556% */
+}
